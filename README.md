@@ -1,75 +1,23 @@
-# Nuxt Minimal Starter
+# Bastian Büttner – Frontend & UX Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## 🚀 About This Project
 
-## Setup
+Welcome to my personal portfolio! This project serves as a central hub to showcase my work at the intersection of Frontend Development and UI/UX Design.
 
-Make sure to install dependencies:
+It provides an overview of my recent work, demonstrating my approach to clean code, user-centric interfaces, and modern web technologies.
 
-```bash
-# npm
-npm install
+## 📂 Featured Projects
 
-# pnpm
-pnpm install
+Yet to be added to the portfolio.
 
-# yarn
-yarn install
+## 🛠️ Techstack
 
-# bun
-bun install
-```
+- **Nuxt 4 / Vue.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **Motion-v**
+- Hosted on **Vercel**
 
-## Development Server
+## 📫 Connect
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- **LinkedIn:** https://www.linkedin.com/in/bastian-buettner/
