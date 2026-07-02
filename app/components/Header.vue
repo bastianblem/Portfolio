@@ -162,7 +162,7 @@ const navLinks = [
       </template>
       <!-- CTA button -->
       <button
-        class="w-full mt-2 px-5 py-3 rounded-xl bg-accent-teal/10 text-accent-teal font-medium hover:bg-accent-teal/20 border border-accent-teal/20 transition-colors"
+        class="w-full mt-2 px-5 py-3 rounded-full bg-accent-teal/10 text-accent-teal font-medium hover:bg-accent-teal/20 border border-accent-teal/20 transition-colors"
       >
         Contact me
       </button>

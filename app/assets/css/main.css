@@ -24,16 +24,23 @@ html {
 }
 
 body {
-  margin: 0;
-  padding: 0;
   background-color: var(--color-surface-base);
   font-family: var(--font-display);
 }
 
 @layer components {
-  /* Header */
-
-  /* Footer */
-
-  /* etc. */
+  /* Styling of the UX for the progress bar of the shortened project display */
+  .custom-pagination {
+    @apply flex justify-center gap-2 mt-8 bg-surface-card/80 backdrop-blur-md px-4 py-2 rounded-full w-fit mx-auto border border-surface-hover shadow-sm;
+  }
+  .custom-pagination {
+    position: static !important;
+    width: fit-content !important;
+  }
+  .custom-pagination .swiper-pagination-bullet {
+    @apply w-8 h-1 bg-surface-hover rounded-full transition-all duration-300 opacity-100;
+  }
+  .custom-pagination .swiper-pagination-bullet-active {
+    @apply bg-accent-teal w-12;
+  }
 }

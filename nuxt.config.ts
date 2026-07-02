@@ -9,5 +9,10 @@ export default defineNuxtConfig({
                     },
   compatibilityDate: "2026-06-30",
   devtools: { enabled: true },
-  modules: ['@nuxt/fonts', '@nuxt/icon', '@nuxt/image']
+  modules: [
+   '@nuxt/fonts',
+   '@nuxt/icon',
+   '@nuxt/image',
+   'nuxt-swiper'
+  ]
 })

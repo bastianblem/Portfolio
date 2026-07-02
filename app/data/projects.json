@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "NordCode Studio [WIP]",
+    "subtitle": "Freelance Branding & Web-Entwicklung",
+    "description": "Eine cleane, moderne Studio-Website, konzipiert für hohe Performance und visuelle Wirkung.",
+    "tags": ["Nuxt 4", "TypeScript", "Tailwind CSS"],
+    "links": {},
+    "image": "/images/nordcode-preview.png"
+  },
+  {
+    "id": 2,
+    "title": "Drohnen-Videografie [WIP]",
+    "subtitle": "UX-fokussiertes Showcase",
+    "description": "Immersive Landingpage für professionelle Drohnen-Flugdienste.",
+    "tags": ["Nuxt 4", "Typescript", "Tailwind CSS"],
+    "links": {},
+    "image": "/images/drone-preview.png"
+  },
+  {
+    "id": 3,
+    "title": "Ersti App",
+    "subtitle": "Campus-Navigation & Onboarding",
+    "description": "Eine mobile-first Web-App zur Unterstützung von Studienanfängern. Fokus auf intuitive Informationsarchitektur und schnellen Zugriff auf Campus-Ressourcen.",
+    "tags": ["Figma", "UX Design", "Canva"],
+    "links": {
+      "live": "https://www.figma.com/proto/iajhpsr51IO8dEOHXH6KYL/CampusConnect?node-id=1189-13873&starting-point-node-id=1179%3A10871"
+    },
+    "image": "/images/ersti-app.png"
+  },
+  {
+    "id": 4,
+    "title": "Design Sprint Gamification",
+    "subtitle": "Methodik & Interaktion",
+    "description": "Implementierung spielerischer Elemente in einen Design-Sprint-Prozess, um das Engagement und die Kreativität der Teilnehmer bei der Ideenfindung zu steigern.",
+    "tags": ["UI/UX", "Methodik", "AdobeXD", "Gamification"],
+    "links": {},
+    "image": "/images/gamification.png"
+  },
+  {
+    "id": 5,
+    "title": "Baltic Van",
+    "subtitle": "Branding & Web-Präsenz",
+    "description": "Visuelle Identität und responsive Landingpage für einen Van-Ausbau-Service. Fokus auf atmosphärisches Storytelling durch starke Bildsprache.",
+    "tags": [
+      "Nuxt 4",
+      "Typescript",
+      "Tailwind CSS",
+      "Web3Forms",
+      "Vercel Hosting"
+    ],
+    "links": {
+      "live": "https://baltic-van.vercel.app/"
+    },
+    "image": "/images/baltic-van.png"
+  },
+  {
+    "id": 6,
+    "title": "Repodle",
+    "subtitle": "Interaktive Web-App",
+    "description": "Ein Rätselspiel basierend auf GitHub-Repositories. Fokus auf komplexe Zustandsverwaltung (State Management) in Vue.",
+    "tags": ["Nuxt 4", "TypeScript", "Tailwind CSS", "Vercel Hosting"],
+    "links": {
+      "live": "https://repodle.vercel.app/",
+      "repo": "https://github.com/bastianblem/Repodle"
+    },
+    "image": "/images/repodle.png"
+  }
+]
